@@ -1,0 +1,5 @@
+inherit_from: configs/equinet/inner_baseline_resnet_so3.yaml
+data:
+  rotation_augment: pca
+training:
+  out_dir: results/equinet/inner_baseline_resnet_pca

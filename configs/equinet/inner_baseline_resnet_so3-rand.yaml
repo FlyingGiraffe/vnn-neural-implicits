@@ -1,0 +1,5 @@
+inherit_from: configs/equinet/inner_baseline_resnet_aligned.yaml
+data:
+  rotation_augment: so3_rand
+training:
+  out_dir: results/equinet/inner_baseline_resnet_so3-rand

@@ -1,0 +1,5 @@
+inherit_from: configs/pointcloud/onet_resnet_so3.yaml
+data:
+  rotation_augment: pca
+training:
+  out_dir: results/pointcloud/onet_resnet_pca

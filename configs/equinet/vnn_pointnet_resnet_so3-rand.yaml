@@ -1,0 +1,5 @@
+inherit_from: configs/equinet/vnn_pointnet_resnet_aligned.yaml
+data:
+  rotation_augment: so3_rand
+training:
+  out_dir: results/equinet/vnn_pointnet_resnet_so3-rand

@@ -1,0 +1,5 @@
+inherit_from: configs/pointcloud/onet_resnet_aligned.yaml
+data:
+  rotation_augment: so3_rand
+training:
+  out_dir: results/pointcloud/onet_resnet_so3-rand
