@@ -3,7 +3,7 @@
 This repository contains code for the neural implicit reconstruction experiments in the paper
 [Vector Neurons: A General Framework for SO(3)-Equivariant Networks](https://arxiv.org/pdf/2104.12229.pdf). Code for classification and segmentation experiments can be found [here](https://github.com/FlyingGiraffe/vnn/).
 
-<img src='images/reconstruction_vis_clipped.jpg' width=800>
+<img src='images/reconstruction_vis_clipped.jpg' width=600>
 
 [[Project]](https://cs.stanford.edu/~congyue/vnn/) [[Paper]](https://arxiv.org/pdf/2104.12229.pdf)
 
